@@ -1,5 +1,12 @@
 # frontend
 
+## 1.1.31
+
+### Patch Changes
+
+- add37ff: SOV-4639: Fix maximum deposit value on Market making page
+- 881d416: SOV-4514: Changes for "Transfer Assets" Button
+
 ## 1.1.30
 
 ### Patch Changes
